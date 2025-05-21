@@ -5,7 +5,7 @@ on:
     branches: [ UAT ]
 
 env:
-  IMAGE_NAME: darshita123/ml_chatbot_api
+  IMAGE_NAME: darshu12/ml_chatbot_api
 
 jobs:
   build-and-push:
